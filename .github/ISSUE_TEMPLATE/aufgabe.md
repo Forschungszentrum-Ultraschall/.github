@@ -13,7 +13,7 @@ assignees: FZUSchmidtke
 ### Features
 * [ ] ***FEATUREBESCHREIBUNG***
 
-### Ansprrechpartner
+### Ansprechpartner
 * @FZUSchmidtke
 * ***Nutzernamen weiterer beteiligter Personen***
 
